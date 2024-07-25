@@ -19,25 +19,11 @@ I have `3 + 5.5 + 4.5 = 14` hours one day
 
 ## Daily check in
 
-July 26th: <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg">
-<br>
-July 27th:
-<br>
-July 28th:
-<br>
-July 29th:
-<br>
-July 30th:
-<br>
-July 31th:
-<br>
-August 1st:
-<br>
-August 2nd:
-<br>
-August 3rd:
-<br>
-August 4th:
-<br>
-August 5th:
-
+July 2024
+| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |  |
+|  |  |  |  | August 1th |  |  |
