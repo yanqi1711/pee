@@ -9,8 +9,10 @@ this pee is mean Postgraduate Entrance Examination
 408: 计算机组成原理、数据结构、操作系统、计算机网络
 
 ## Plan
-I have `3 + 5.5 + 3 = 11.5` hours one day
+I have `3 + 5.5 + 4.5 = 14` hours one day
 
-8:30 - 11:30 &nbsp;&nbsp;&nbsp;<span style="color:#80BEDF!important">3<span style="opacity:0.5!important">hours</span></span><br>
-1:00 - 6:30 &nbsp;&nbsp;&nbsp;<span style="color:#E3B65E!important">5.5<span style="opacity:0.5!important">hours</span></span><br>
-8:30 - 11:30 &nbsp;&nbsp;&nbsp;<span style="color:#34d399!important">3<span style="opacity:0.5!important">hours</span></span><br>
+| 计算平台 |  |
+| :--: | :--: |
+| 8:30 - 11:30 | 数学 / 408|
+| 1:00 - 6:30 | 英语 / 408 |
+| 8:30 - 1:00 | 英语 / 数学 |
