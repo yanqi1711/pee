@@ -1,5 +1,5 @@
 # pee
-this pee is mean Postgraduate Entrance Examination
+the pee means Postgraduate Entrance Examination
 
 ## Destination
 奋斗百天, 我要上`杭州电子科技大学`
