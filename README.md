@@ -19,7 +19,7 @@ I have `3 + 5.5 + 4.5 = 14` hours one day
 
 ## Daily check in
 
-July 26th: ![1](./screenshots/MdiMoonWaningCrescent.svg)
+July 26th: <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg">
 <br>
 July 27th:
 <br>
