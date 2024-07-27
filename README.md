@@ -25,5 +25,5 @@ July 2024
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-|  |  |  |  |  | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |  |
+|  |  |  |  |  | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |
 |  |  |  |  | August 1th |  |  |
