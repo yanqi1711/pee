@@ -31,7 +31,7 @@ July 2024
 August 2024
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| July 28th | July 29th | July 30th | July 31th |  |  |  |
+| July 28th | July 29th | July 30th | July 31th | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
