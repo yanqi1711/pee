@@ -39,7 +39,7 @@ the pee means Postgraduate Entrance Examination
 | 思修 | 16 |
 
 ## Plan
-just spend time and study
+just spend time and study<br>
 beat your self, never ever hurring
 
 ## Daily check in
