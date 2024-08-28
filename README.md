@@ -8,14 +8,35 @@ the pee means Postgraduate Entrance Examination
 数一、英一、政治、408<br>
 408: 计算机组成原理、数据结构、操作系统、计算机网络
 
-## Plan
-I have `3 + 5.5 + 4.5 = 14` hours one day
+### 408分值分布
+| 科目 | 大致分值 |
+| 数据结构 | 45 |
+| 计算机组成原理 | 45 |
+| 操作系统 | 35 |
+| 计算机网络 | 25 |
 
-| Time |  |
-| :--: | :--: |
-| 8:30 - 11:30 | 数学 / 408|
-| 1:00 - 6:30 | 英语 / 408 |
-| 8:30 - 1:00 | 英语 / 数学 |
+### 数学一分值分布
+| 科目 | 大致分值 |
+| 高等数学 | 84 |
+| 线性代数 | 33 |
+| 概率论与数理统计 | 33 |
+
+### 英语一分值分布
+| 科目 | 题号 | 分值 |
+| 英语知识运用 | 1~20 | 10 |
+| 阅读理解 | 21~50 | 60 |
+| 写作 | 51~52 | 30 |
+
+### 政治
+| 科目 | 分值 |
+| 马原 | 24 |
+| 毛中特 | 30 |
+| 近代史 | 14 |
+| 思修 | 16 |
+
+## Plan
+just spend time and study
+beat your self, never ever hurring
 
 ## Daily check in
 
@@ -35,6 +56,6 @@ August 2024
 | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
-| 0 | 0 | 0 |  |  |  |  |
+| 0 | 0 | 0 | 0 |  |  |  | 玩黑神话去了，我该死
 | September 1st | September 2nd | September 3rd | September 4th | September 5th | September 6th | September 7th |
  
