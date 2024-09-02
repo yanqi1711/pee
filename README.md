@@ -50,8 +50,8 @@ July 2024
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-|  |  |  |  | July 25th | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |
-| <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | August 1st | August 2nd | August 3rd |
+|  |  |  |  | 7.25 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |
+| <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | 8.1 | 8.2 | 8.3 |
 
 August 2024
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
@@ -60,6 +60,14 @@ August 2024
 | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
-| 0 | 0 | 0 | 0 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |  | 玩黑神话去了，我该死
-| September 1st | September 2nd | September 3rd | September 4th | September 5th | September 6th | September 7th |
- 
+| 0 | 0 | 0 | 0 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
+| 9.1 | 9.2 | 9.3 | 9.4 | 9.5 | 9.6 | 9.7 |
+
+September 2024
+| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  | 10.1 | 10.2 | 10.3 | 10.4 | 10.5 |
