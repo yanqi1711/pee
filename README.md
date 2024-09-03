@@ -66,7 +66,7 @@ August 2024
 September 2024
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |  |  |  |  |  |  |
+| <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
