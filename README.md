@@ -67,7 +67,7 @@ September 2024
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
-| <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |  |  |  |  |  |
+| <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  | 10.1 | 10.2 | 10.3 | 10.4 | 10.5 |
