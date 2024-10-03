@@ -75,7 +75,7 @@ September 2024
 October 2024
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 9.29 | 9.30 | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |  |  |  |  |
+| 9.29 | 9.30 | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
