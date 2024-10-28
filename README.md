@@ -51,7 +51,7 @@ July 2024
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  | 7.25 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |
-| <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | 8.1 | 8.2 | 8.3 |
+| <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | 1 | 2 | 3 |
 
 August 2024
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
@@ -61,7 +61,7 @@ August 2024
 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
 | 0 | 0 | 0 | 0 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
-| 9.1 | 9.2 | 9.3 | 9.4 | 9.5 | 9.6 | 9.7 |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 
 September 2024
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
@@ -70,7 +70,7 @@ September 2024
 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> |
 | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |
 | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonFull.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonFull.svg"> | <img width="20px" src="./screenshots/MdiMoonFull.svg"> |
-| <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | 10.1 | 10.2 | 10.3 | 10.4 | 10.5 |
+| <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | 1 | 2 | 3 | 4 | 5
 
 October 2024
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
@@ -79,4 +79,4 @@ October 2024
 | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonFull.svg"> | <img width="20px" src="./screenshots/MdiMoonFull.svg"> | <img width="20px" src="./screenshots/MdiMoonFull.svg"> |
 | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonFull.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |
 | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningCrescent.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |
-|  |  |  |  |  |  |  |
+| <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |  |  |  |  | 1 | 2 |
