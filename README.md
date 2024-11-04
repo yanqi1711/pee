@@ -40,9 +40,9 @@ the pee means Postgraduate Entrance Examination
 
 ## Plan
 just spend time and study<br>
-beat your self, never ever hurring
+beat yourself, never hurrying
 
-## Daily check in
+## Daily check-in
 
 July 2024
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
