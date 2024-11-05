@@ -85,7 +85,7 @@ November 2024
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 27 | 28 | 29 | 30 | 31 | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |
-| <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonFull.svg"> |  |  |  |  |  |
+| <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonFull.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
