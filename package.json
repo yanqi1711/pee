@@ -1,0 +1,19 @@
+{
+  "name": "pee",
+  "version": "0.0.1",
+  "description": "考研打卡",
+  "author": "yanqi",
+  "license": "MIT",
+  "keywords": [
+    "postgraduation"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.8.0",
+    "eslint": "^9.14.0"
+  }
+}
