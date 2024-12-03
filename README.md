@@ -93,7 +93,7 @@ November 2024
 December 2024
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  |  |  |  |  |
+| <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
