@@ -95,6 +95,6 @@ December 2024
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonFull.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |
 | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> | <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |
-|  |  |  |  |  |  |  |
+| <img width="20px" src="./screenshots/MdiMoonWaningGibbous.svg"> |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  | 1 | 2 | 3 | 4 |
